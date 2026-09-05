@@ -55,5 +55,10 @@ purposes.
 - Jupyter Notebook
 
 
-The dataset contains car-related information and the target variable ```Price```.
 
+### 🤖 Machine Learning Algorithm
+
+**Decision Tree Regressor**
+
+Decision Tree Regressor is a supervised machine learning algorithm used
+for predicting continuous values such as car prices.
