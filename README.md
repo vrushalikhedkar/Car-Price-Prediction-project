@@ -118,9 +118,30 @@ price.
 
 **Actual vs Predicted Car Price**
 
+
 The graph compares actual car prices with the prices predicted by the
 model.
 
 - 🔴 Red = Actual Price
 
 - 🔵 Blue = Predicted Price
+
+
+#
+
+
+### 📈 Model Evaluation
+
+The model performance is evaluated using:
+
+- MAE: Measures the average absolute difference between actual and
+  predicted prices.
+
+- MSE: Measures the average squared difference between actual and 
+  predicted prices.
+
+- R² Score: Shows how well the model explains the variation in car
+  prices.
+
+
+  #
