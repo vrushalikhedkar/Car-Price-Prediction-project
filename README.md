@@ -106,3 +106,21 @@ for predicting continuous values such as car prices.
 
 
 #
+
+
+### 📊 Visualizations
+
+**Engine Size vs Car Price**
+
+The scatter plot shows the relationship between engine size and car
+price.
+
+
+**Actual vs Predicted Car Price**
+
+The graph compares actual car prices with the prices predicted by the
+model.
+
+- 🔴 Red = Actual Price
+
+- 🔵 Blue = Predicted Price
