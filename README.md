@@ -148,10 +148,10 @@ The model performance is evaluated using:
 
 
 
-  ### 🔮 Prediction
+ ### 🔮 Prediction
 
-  The trained model can be used to predict the price of a new car by
-  providing its:
+The trained model can be used to predict the price of a new car by
+providing its:
 
 - Year
 
@@ -160,6 +160,17 @@ The model performance is evaluated using:
 - Mileage
 
 - Horsepower
+
+
+#
+
+
+### ✅ Conclusion
+
+This project demonstrates how a Decision Tree Regressor can be used to
+predict car prices without Feature Scaling. It covers the complete basic
+Machine Learning workflow from data loading and preprocessing to model
+training, evaluation, visualization, and prediction.
 
 
 #
