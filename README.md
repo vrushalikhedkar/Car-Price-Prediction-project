@@ -10,8 +10,7 @@ Decision Tree Regressor algorithm.
 
 ### 🎯 Objective
 
-The goal of this project is to predict car prices based on features such
-as:
+The goal of this project is to predict car prices based on features such as:
 
 - Year
 
@@ -98,6 +97,12 @@ for predicting continuous values such as car prices.
 - Mean Squared Error (MSE)
 
 - R² Score
+
+12. Visualize Actual vs Predicted prices
+
+13. Predict the price of a new car
+
+
 
 
 #
