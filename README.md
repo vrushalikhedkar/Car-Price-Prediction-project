@@ -62,3 +62,42 @@ purposes.
 
 Decision Tree Regressor is a supervised machine learning algorithm used
 for predicting continuous values such as car prices.
+
+
+
+#
+
+
+
+### 🔄 Project Workflow
+
+1. Import required libraries
+
+2. Load the car price dataset
+
+3. Check dataset shape and information
+
+4. Check missing values
+
+5. Check and remove duplicate records if required
+
+6. Visualize Engine Size vs Car Price
+
+7. Separate features (X) and target (y)
+
+8. Split data into training and testing sets
+
+9. Train the Decision Tree Regressor model
+
+10. Predict car prices
+
+11. Evaluate the model using:
+
+- Mean Absolute Error (MAE)
+
+- Mean Squared Error (MSE)
+
+- R² Score
+
+
+#
