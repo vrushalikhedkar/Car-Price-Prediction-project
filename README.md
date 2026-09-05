@@ -145,3 +145,21 @@ The model performance is evaluated using:
 
 
   #
+
+
+
+  ### 🔮 Prediction
+
+  The trained model can be used to predict the price of a new car by
+  providing its:
+
+- Year
+
+- Engine Size
+
+- Mileage
+
+- Horsepower
+
+
+#
