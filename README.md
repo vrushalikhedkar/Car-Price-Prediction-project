@@ -22,9 +22,38 @@ as:
 - Horsepower
 
 
+
 #
 
+
+
 ### 📂 Dataset
+
+The dataset contains car-related information and the target variable ```Price```.
+
+
+**Note**: This is a synthetic practice dataset created for learning
+purposes.
+
+
+#
+
+
+
+### 🛠️ Technologies Used
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Scikit-learn
+
+- Jupyter Notebook
+
 
 The dataset contains car-related information and the target variable ```Price```.
 
